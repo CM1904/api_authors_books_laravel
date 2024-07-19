@@ -14,6 +14,11 @@
 4. Para crear las tablas "php artisan migrate"
 5. Por ultimo el comando "php artisan serve"
 
+## Requerimientos
+1. MySql versión 8.1.0
+2. PHP versión ^8.1
+3. Laravel versión 10.10
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
